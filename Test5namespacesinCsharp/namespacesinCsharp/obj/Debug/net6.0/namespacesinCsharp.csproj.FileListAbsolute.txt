@@ -1,0 +1,15 @@
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\obj\Debug\net6.0\namespacesinCsharp.csproj.AssemblyReference.cache
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\obj\Debug\net6.0\namespacesinCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\obj\Debug\net6.0\namespacesinCsharp.AssemblyInfoInputs.cache
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\obj\Debug\net6.0\namespacesinCsharp.AssemblyInfo.cs
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\obj\Debug\net6.0\namespacesinCsharp.csproj.CoreCompileInputs.cache
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\bin\Debug\net6.0\namespacesinCsharp.exe
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\bin\Debug\net6.0\namespacesinCsharp.deps.json
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\bin\Debug\net6.0\namespacesinCsharp.runtimeconfig.json
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\bin\Debug\net6.0\namespacesinCsharp.dll
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\bin\Debug\net6.0\namespacesinCsharp.pdb
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\obj\Debug\net6.0\namespacesinCsharp.dll
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\obj\Debug\net6.0\refint\namespacesinCsharp.dll
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\obj\Debug\net6.0\namespacesinCsharp.pdb
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\obj\Debug\net6.0\namespacesinCsharp.genruntimeconfig.cache
+D:\Csharp ass\namespacesinCsharp\namespacesinCsharp\obj\Debug\net6.0\ref\namespacesinCsharp.dll

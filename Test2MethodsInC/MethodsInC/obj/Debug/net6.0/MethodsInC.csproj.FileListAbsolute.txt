@@ -1,0 +1,15 @@
+D:\Csharp ass\MethodsInC\MethodsInC\obj\Debug\net6.0\MethodsInC.csproj.AssemblyReference.cache
+D:\Csharp ass\MethodsInC\MethodsInC\obj\Debug\net6.0\MethodsInC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp ass\MethodsInC\MethodsInC\obj\Debug\net6.0\MethodsInC.AssemblyInfoInputs.cache
+D:\Csharp ass\MethodsInC\MethodsInC\obj\Debug\net6.0\MethodsInC.AssemblyInfo.cs
+D:\Csharp ass\MethodsInC\MethodsInC\obj\Debug\net6.0\MethodsInC.csproj.CoreCompileInputs.cache
+D:\Csharp ass\MethodsInC\MethodsInC\bin\Debug\net6.0\MethodsInC.exe
+D:\Csharp ass\MethodsInC\MethodsInC\bin\Debug\net6.0\MethodsInC.deps.json
+D:\Csharp ass\MethodsInC\MethodsInC\bin\Debug\net6.0\MethodsInC.runtimeconfig.json
+D:\Csharp ass\MethodsInC\MethodsInC\bin\Debug\net6.0\MethodsInC.dll
+D:\Csharp ass\MethodsInC\MethodsInC\bin\Debug\net6.0\MethodsInC.pdb
+D:\Csharp ass\MethodsInC\MethodsInC\obj\Debug\net6.0\MethodsInC.dll
+D:\Csharp ass\MethodsInC\MethodsInC\obj\Debug\net6.0\refint\MethodsInC.dll
+D:\Csharp ass\MethodsInC\MethodsInC\obj\Debug\net6.0\MethodsInC.pdb
+D:\Csharp ass\MethodsInC\MethodsInC\obj\Debug\net6.0\MethodsInC.genruntimeconfig.cache
+D:\Csharp ass\MethodsInC\MethodsInC\obj\Debug\net6.0\ref\MethodsInC.dll

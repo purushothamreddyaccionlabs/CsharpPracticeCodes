@@ -1,0 +1,15 @@
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\bin\Debug\net6.0\FirstProjectCsharp.exe
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\bin\Debug\net6.0\FirstProjectCsharp.deps.json
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\bin\Debug\net6.0\FirstProjectCsharp.runtimeconfig.json
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\bin\Debug\net6.0\FirstProjectCsharp.dll
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\bin\Debug\net6.0\FirstProjectCsharp.pdb
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\obj\Debug\net6.0\FirstProjectCsharp.csproj.AssemblyReference.cache
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\obj\Debug\net6.0\FirstProjectCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\obj\Debug\net6.0\FirstProjectCsharp.AssemblyInfoInputs.cache
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\obj\Debug\net6.0\FirstProjectCsharp.AssemblyInfo.cs
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\obj\Debug\net6.0\FirstProjectCsharp.csproj.CoreCompileInputs.cache
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\obj\Debug\net6.0\FirstProjectCsharp.dll
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\obj\Debug\net6.0\refint\FirstProjectCsharp.dll
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\obj\Debug\net6.0\FirstProjectCsharp.pdb
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\obj\Debug\net6.0\FirstProjectCsharp.genruntimeconfig.cache
+D:\Csharp ass\FirstProjectCsharp\FirstProjectCsharp\obj\Debug\net6.0\ref\FirstProjectCsharp.dll

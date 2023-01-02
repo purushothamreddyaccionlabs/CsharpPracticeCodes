@@ -1,0 +1,15 @@
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\bin\Debug\net6.0\parameterArraysMethods.exe
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\bin\Debug\net6.0\parameterArraysMethods.deps.json
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\bin\Debug\net6.0\parameterArraysMethods.runtimeconfig.json
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\bin\Debug\net6.0\parameterArraysMethods.dll
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\bin\Debug\net6.0\parameterArraysMethods.pdb
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\obj\Debug\net6.0\parameterArraysMethods.csproj.AssemblyReference.cache
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\obj\Debug\net6.0\parameterArraysMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\obj\Debug\net6.0\parameterArraysMethods.AssemblyInfoInputs.cache
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\obj\Debug\net6.0\parameterArraysMethods.AssemblyInfo.cs
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\obj\Debug\net6.0\parameterArraysMethods.csproj.CoreCompileInputs.cache
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\obj\Debug\net6.0\parameterArraysMethods.dll
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\obj\Debug\net6.0\refint\parameterArraysMethods.dll
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\obj\Debug\net6.0\parameterArraysMethods.pdb
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\obj\Debug\net6.0\parameterArraysMethods.genruntimeconfig.cache
+D:\Csharp ass\parameterArraysMethods\parameterArraysMethods\obj\Debug\net6.0\ref\parameterArraysMethods.dll

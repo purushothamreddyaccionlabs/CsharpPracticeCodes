@@ -1,0 +1,15 @@
+D:\Csharp ass\practiceass\practiceass\bin\Debug\net6.0\practiceass.exe
+D:\Csharp ass\practiceass\practiceass\bin\Debug\net6.0\practiceass.deps.json
+D:\Csharp ass\practiceass\practiceass\bin\Debug\net6.0\practiceass.runtimeconfig.json
+D:\Csharp ass\practiceass\practiceass\bin\Debug\net6.0\practiceass.dll
+D:\Csharp ass\practiceass\practiceass\bin\Debug\net6.0\practiceass.pdb
+D:\Csharp ass\practiceass\practiceass\obj\Debug\net6.0\practiceass.csproj.AssemblyReference.cache
+D:\Csharp ass\practiceass\practiceass\obj\Debug\net6.0\practiceass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp ass\practiceass\practiceass\obj\Debug\net6.0\practiceass.AssemblyInfoInputs.cache
+D:\Csharp ass\practiceass\practiceass\obj\Debug\net6.0\practiceass.AssemblyInfo.cs
+D:\Csharp ass\practiceass\practiceass\obj\Debug\net6.0\practiceass.csproj.CoreCompileInputs.cache
+D:\Csharp ass\practiceass\practiceass\obj\Debug\net6.0\practiceass.dll
+D:\Csharp ass\practiceass\practiceass\obj\Debug\net6.0\refint\practiceass.dll
+D:\Csharp ass\practiceass\practiceass\obj\Debug\net6.0\practiceass.pdb
+D:\Csharp ass\practiceass\practiceass\obj\Debug\net6.0\practiceass.genruntimeconfig.cache
+D:\Csharp ass\practiceass\practiceass\obj\Debug\net6.0\ref\practiceass.dll

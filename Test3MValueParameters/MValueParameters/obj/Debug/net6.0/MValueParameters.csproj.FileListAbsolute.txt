@@ -1,0 +1,15 @@
+D:\Csharp ass\MValueParameters\MValueParameters\bin\Debug\net6.0\MValueParameters.exe
+D:\Csharp ass\MValueParameters\MValueParameters\bin\Debug\net6.0\MValueParameters.deps.json
+D:\Csharp ass\MValueParameters\MValueParameters\bin\Debug\net6.0\MValueParameters.runtimeconfig.json
+D:\Csharp ass\MValueParameters\MValueParameters\bin\Debug\net6.0\MValueParameters.dll
+D:\Csharp ass\MValueParameters\MValueParameters\bin\Debug\net6.0\MValueParameters.pdb
+D:\Csharp ass\MValueParameters\MValueParameters\obj\Debug\net6.0\MValueParameters.csproj.AssemblyReference.cache
+D:\Csharp ass\MValueParameters\MValueParameters\obj\Debug\net6.0\MValueParameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp ass\MValueParameters\MValueParameters\obj\Debug\net6.0\MValueParameters.AssemblyInfoInputs.cache
+D:\Csharp ass\MValueParameters\MValueParameters\obj\Debug\net6.0\MValueParameters.AssemblyInfo.cs
+D:\Csharp ass\MValueParameters\MValueParameters\obj\Debug\net6.0\MValueParameters.csproj.CoreCompileInputs.cache
+D:\Csharp ass\MValueParameters\MValueParameters\obj\Debug\net6.0\MValueParameters.dll
+D:\Csharp ass\MValueParameters\MValueParameters\obj\Debug\net6.0\refint\MValueParameters.dll
+D:\Csharp ass\MValueParameters\MValueParameters\obj\Debug\net6.0\MValueParameters.pdb
+D:\Csharp ass\MValueParameters\MValueParameters\obj\Debug\net6.0\MValueParameters.genruntimeconfig.cache
+D:\Csharp ass\MValueParameters\MValueParameters\obj\Debug\net6.0\ref\MValueParameters.dll
