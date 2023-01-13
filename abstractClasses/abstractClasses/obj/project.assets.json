@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Abstract_classes_ex/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Abstract_classes_ex.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Abstract_classes_ex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstract_classes_ex/1.0.0": {
+      "type": "project",
+      "path": "../Abstract_classes_ex/Abstract_classes_ex.csproj",
+      "msbuildProject": "../Abstract_classes_ex/Abstract_classes_ex.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Abstract_classes_ex >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\AL5402\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\practiceCsharpInVs\\abstractClasses\\abstractClasses\\abstractClasses.csproj",
+      "projectName": "abstractClasses",
+      "projectPath": "D:\\practiceCsharpInVs\\abstractClasses\\abstractClasses\\abstractClasses.csproj",
+      "packagesPath": "C:\\Users\\AL5402\\.nuget\\packages\\",
+      "outputPath": "D:\\practiceCsharpInVs\\abstractClasses\\abstractClasses\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\AL5402\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\practiceCsharpInVs\\abstractClasses\\Abstract_classes_ex\\Abstract_classes_ex.csproj": {
+              "projectPath": "D:\\practiceCsharpInVs\\abstractClasses\\Abstract_classes_ex\\Abstract_classes_ex.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

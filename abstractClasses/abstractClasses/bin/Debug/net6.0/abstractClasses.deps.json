@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "abstractClasses/1.0.0": {
+        "dependencies": {
+          "Abstract_classes_ex": "1.0.0"
+        },
+        "runtime": {
+          "abstractClasses.dll": {}
+        }
+      },
+      "Abstract_classes_ex/1.0.0": {
+        "runtime": {
+          "Abstract_classes_ex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "abstractClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Abstract_classes_ex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

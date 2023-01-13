@@ -1,0 +1,12 @@
+D:\practiceCsharpInVs\abstractClasses\Abstract_classes_ex\bin\Debug\net6.0\Abstract_classes_ex.deps.json
+D:\practiceCsharpInVs\abstractClasses\Abstract_classes_ex\bin\Debug\net6.0\Abstract_classes_ex.dll
+D:\practiceCsharpInVs\abstractClasses\Abstract_classes_ex\bin\Debug\net6.0\Abstract_classes_ex.pdb
+D:\practiceCsharpInVs\abstractClasses\Abstract_classes_ex\obj\Debug\net6.0\Abstract_classes_ex.csproj.AssemblyReference.cache
+D:\practiceCsharpInVs\abstractClasses\Abstract_classes_ex\obj\Debug\net6.0\Abstract_classes_ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceCsharpInVs\abstractClasses\Abstract_classes_ex\obj\Debug\net6.0\Abstract_classes_ex.AssemblyInfoInputs.cache
+D:\practiceCsharpInVs\abstractClasses\Abstract_classes_ex\obj\Debug\net6.0\Abstract_classes_ex.AssemblyInfo.cs
+D:\practiceCsharpInVs\abstractClasses\Abstract_classes_ex\obj\Debug\net6.0\Abstract_classes_ex.csproj.CoreCompileInputs.cache
+D:\practiceCsharpInVs\abstractClasses\Abstract_classes_ex\obj\Debug\net6.0\Abstract_classes_ex.dll
+D:\practiceCsharpInVs\abstractClasses\Abstract_classes_ex\obj\Debug\net6.0\refint\Abstract_classes_ex.dll
+D:\practiceCsharpInVs\abstractClasses\Abstract_classes_ex\obj\Debug\net6.0\Abstract_classes_ex.pdb
+D:\practiceCsharpInVs\abstractClasses\Abstract_classes_ex\obj\Debug\net6.0\ref\Abstract_classes_ex.dll
