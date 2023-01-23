@@ -1,0 +1,15 @@
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\obj\Debug\net6.0\valueAndRefparameters1.csproj.AssemblyReference.cache
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\obj\Debug\net6.0\valueAndRefparameters1.GeneratedMSBuildEditorConfig.editorconfig
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\obj\Debug\net6.0\valueAndRefparameters1.AssemblyInfoInputs.cache
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\obj\Debug\net6.0\valueAndRefparameters1.AssemblyInfo.cs
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\obj\Debug\net6.0\valueAndRefparameters1.csproj.CoreCompileInputs.cache
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\bin\Debug\net6.0\valueAndRefparameters1.exe
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\bin\Debug\net6.0\valueAndRefparameters1.deps.json
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\bin\Debug\net6.0\valueAndRefparameters1.runtimeconfig.json
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\bin\Debug\net6.0\valueAndRefparameters1.dll
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\bin\Debug\net6.0\valueAndRefparameters1.pdb
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\obj\Debug\net6.0\valueAndRefparameters1.dll
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\obj\Debug\net6.0\refint\valueAndRefparameters1.dll
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\obj\Debug\net6.0\valueAndRefparameters1.pdb
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\obj\Debug\net6.0\valueAndRefparameters1.genruntimeconfig.cache
+D:\practiceCsharpInVs\valueAndRefparameters1\valueAndRefparameters1\obj\Debug\net6.0\ref\valueAndRefparameters1.dll
