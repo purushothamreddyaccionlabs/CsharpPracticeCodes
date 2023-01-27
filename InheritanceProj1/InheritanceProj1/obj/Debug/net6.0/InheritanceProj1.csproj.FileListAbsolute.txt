@@ -1,0 +1,15 @@
+D:\git\InheritanceProj1\InheritanceProj1\bin\Debug\net6.0\InheritanceProj1.exe
+D:\git\InheritanceProj1\InheritanceProj1\bin\Debug\net6.0\InheritanceProj1.deps.json
+D:\git\InheritanceProj1\InheritanceProj1\bin\Debug\net6.0\InheritanceProj1.runtimeconfig.json
+D:\git\InheritanceProj1\InheritanceProj1\bin\Debug\net6.0\InheritanceProj1.dll
+D:\git\InheritanceProj1\InheritanceProj1\bin\Debug\net6.0\InheritanceProj1.pdb
+D:\git\InheritanceProj1\InheritanceProj1\obj\Debug\net6.0\InheritanceProj1.csproj.AssemblyReference.cache
+D:\git\InheritanceProj1\InheritanceProj1\obj\Debug\net6.0\InheritanceProj1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\InheritanceProj1\InheritanceProj1\obj\Debug\net6.0\InheritanceProj1.AssemblyInfoInputs.cache
+D:\git\InheritanceProj1\InheritanceProj1\obj\Debug\net6.0\InheritanceProj1.AssemblyInfo.cs
+D:\git\InheritanceProj1\InheritanceProj1\obj\Debug\net6.0\InheritanceProj1.csproj.CoreCompileInputs.cache
+D:\git\InheritanceProj1\InheritanceProj1\obj\Debug\net6.0\InheritanceProj1.dll
+D:\git\InheritanceProj1\InheritanceProj1\obj\Debug\net6.0\refint\InheritanceProj1.dll
+D:\git\InheritanceProj1\InheritanceProj1\obj\Debug\net6.0\InheritanceProj1.pdb
+D:\git\InheritanceProj1\InheritanceProj1\obj\Debug\net6.0\InheritanceProj1.genruntimeconfig.cache
+D:\git\InheritanceProj1\InheritanceProj1\obj\Debug\net6.0\ref\InheritanceProj1.dll

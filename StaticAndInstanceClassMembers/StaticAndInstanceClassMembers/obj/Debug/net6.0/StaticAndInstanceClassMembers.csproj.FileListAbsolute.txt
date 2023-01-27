@@ -1,0 +1,15 @@
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.csproj.AssemblyReference.cache
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.AssemblyInfoInputs.cache
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.AssemblyInfo.cs
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.csproj.CoreCompileInputs.cache
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\bin\Debug\net6.0\StaticAndInstanceClassMembers.exe
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\bin\Debug\net6.0\StaticAndInstanceClassMembers.deps.json
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\bin\Debug\net6.0\StaticAndInstanceClassMembers.runtimeconfig.json
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\bin\Debug\net6.0\StaticAndInstanceClassMembers.dll
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\bin\Debug\net6.0\StaticAndInstanceClassMembers.pdb
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.dll
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\obj\Debug\net6.0\refint\StaticAndInstanceClassMembers.dll
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.pdb
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\obj\Debug\net6.0\StaticAndInstanceClassMembers.genruntimeconfig.cache
+D:\git\StaticAndInstanceClassMembers\StaticAndInstanceClassMembers\obj\Debug\net6.0\ref\StaticAndInstanceClassMembers.dll

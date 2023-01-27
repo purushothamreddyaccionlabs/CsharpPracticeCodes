@@ -1,0 +1,15 @@
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\bin\Debug\net6.0\MethodHidingInCSharp.exe
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\bin\Debug\net6.0\MethodHidingInCSharp.deps.json
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\bin\Debug\net6.0\MethodHidingInCSharp.runtimeconfig.json
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\bin\Debug\net6.0\MethodHidingInCSharp.dll
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\bin\Debug\net6.0\MethodHidingInCSharp.pdb
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\obj\Debug\net6.0\MethodHidingInCSharp.csproj.AssemblyReference.cache
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\obj\Debug\net6.0\MethodHidingInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\obj\Debug\net6.0\MethodHidingInCSharp.AssemblyInfoInputs.cache
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\obj\Debug\net6.0\MethodHidingInCSharp.AssemblyInfo.cs
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\obj\Debug\net6.0\MethodHidingInCSharp.csproj.CoreCompileInputs.cache
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\obj\Debug\net6.0\MethodHidingInCSharp.dll
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\obj\Debug\net6.0\refint\MethodHidingInCSharp.dll
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\obj\Debug\net6.0\MethodHidingInCSharp.pdb
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\obj\Debug\net6.0\MethodHidingInCSharp.genruntimeconfig.cache
+D:\git\MethodHidingInCSharp\MethodHidingInCSharp\obj\Debug\net6.0\ref\MethodHidingInCSharp.dll

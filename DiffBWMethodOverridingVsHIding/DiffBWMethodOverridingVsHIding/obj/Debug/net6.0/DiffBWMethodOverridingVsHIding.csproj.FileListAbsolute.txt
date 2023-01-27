@@ -1,0 +1,15 @@
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\bin\Debug\net6.0\DiffBWMethodOverridingVsHIding.exe
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\bin\Debug\net6.0\DiffBWMethodOverridingVsHIding.deps.json
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\bin\Debug\net6.0\DiffBWMethodOverridingVsHIding.runtimeconfig.json
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\bin\Debug\net6.0\DiffBWMethodOverridingVsHIding.dll
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\bin\Debug\net6.0\DiffBWMethodOverridingVsHIding.pdb
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\obj\Debug\net6.0\DiffBWMethodOverridingVsHIding.csproj.AssemblyReference.cache
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\obj\Debug\net6.0\DiffBWMethodOverridingVsHIding.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\obj\Debug\net6.0\DiffBWMethodOverridingVsHIding.AssemblyInfoInputs.cache
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\obj\Debug\net6.0\DiffBWMethodOverridingVsHIding.AssemblyInfo.cs
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\obj\Debug\net6.0\DiffBWMethodOverridingVsHIding.csproj.CoreCompileInputs.cache
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\obj\Debug\net6.0\DiffBWMethodOverridingVsHIding.dll
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\obj\Debug\net6.0\refint\DiffBWMethodOverridingVsHIding.dll
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\obj\Debug\net6.0\DiffBWMethodOverridingVsHIding.pdb
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\obj\Debug\net6.0\DiffBWMethodOverridingVsHIding.genruntimeconfig.cache
+D:\git\DiffBWMethodOverridingVsHIding\DiffBWMethodOverridingVsHIding\obj\Debug\net6.0\ref\DiffBWMethodOverridingVsHIding.dll

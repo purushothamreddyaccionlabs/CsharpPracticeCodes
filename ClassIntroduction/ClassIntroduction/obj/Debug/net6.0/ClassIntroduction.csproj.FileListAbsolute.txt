@@ -1,0 +1,15 @@
+D:\git\ClassIntroduction\ClassIntroduction\bin\Debug\net6.0\ClassIntroduction.exe
+D:\git\ClassIntroduction\ClassIntroduction\bin\Debug\net6.0\ClassIntroduction.deps.json
+D:\git\ClassIntroduction\ClassIntroduction\bin\Debug\net6.0\ClassIntroduction.runtimeconfig.json
+D:\git\ClassIntroduction\ClassIntroduction\bin\Debug\net6.0\ClassIntroduction.dll
+D:\git\ClassIntroduction\ClassIntroduction\bin\Debug\net6.0\ClassIntroduction.pdb
+D:\git\ClassIntroduction\ClassIntroduction\obj\Debug\net6.0\ClassIntroduction.csproj.AssemblyReference.cache
+D:\git\ClassIntroduction\ClassIntroduction\obj\Debug\net6.0\ClassIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ClassIntroduction\ClassIntroduction\obj\Debug\net6.0\ClassIntroduction.AssemblyInfoInputs.cache
+D:\git\ClassIntroduction\ClassIntroduction\obj\Debug\net6.0\ClassIntroduction.AssemblyInfo.cs
+D:\git\ClassIntroduction\ClassIntroduction\obj\Debug\net6.0\ClassIntroduction.csproj.CoreCompileInputs.cache
+D:\git\ClassIntroduction\ClassIntroduction\obj\Debug\net6.0\ClassIntroduction.dll
+D:\git\ClassIntroduction\ClassIntroduction\obj\Debug\net6.0\refint\ClassIntroduction.dll
+D:\git\ClassIntroduction\ClassIntroduction\obj\Debug\net6.0\ClassIntroduction.pdb
+D:\git\ClassIntroduction\ClassIntroduction\obj\Debug\net6.0\ClassIntroduction.genruntimeconfig.cache
+D:\git\ClassIntroduction\ClassIntroduction\obj\Debug\net6.0\ref\ClassIntroduction.dll
