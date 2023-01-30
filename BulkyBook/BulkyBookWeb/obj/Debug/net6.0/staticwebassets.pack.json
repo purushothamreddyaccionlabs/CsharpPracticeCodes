@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\BulkyBookWeb.bundle.scp.css"
     },
     {
+      "Id": "D:\\git\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\bootsThems.css",
+      "PackagePath": "staticwebassets\\css\\bootsThems.css"
+    },
+    {
       "Id": "D:\\git\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
