@@ -1,0 +1,15 @@
+D:\git\InterfacesInCsharp\InterfacesInCsharp\bin\Debug\net6.0\InterfacesInCsharp.exe
+D:\git\InterfacesInCsharp\InterfacesInCsharp\bin\Debug\net6.0\InterfacesInCsharp.deps.json
+D:\git\InterfacesInCsharp\InterfacesInCsharp\bin\Debug\net6.0\InterfacesInCsharp.runtimeconfig.json
+D:\git\InterfacesInCsharp\InterfacesInCsharp\bin\Debug\net6.0\InterfacesInCsharp.dll
+D:\git\InterfacesInCsharp\InterfacesInCsharp\bin\Debug\net6.0\InterfacesInCsharp.pdb
+D:\git\InterfacesInCsharp\InterfacesInCsharp\obj\Debug\net6.0\InterfacesInCsharp.csproj.AssemblyReference.cache
+D:\git\InterfacesInCsharp\InterfacesInCsharp\obj\Debug\net6.0\InterfacesInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\InterfacesInCsharp\InterfacesInCsharp\obj\Debug\net6.0\InterfacesInCsharp.AssemblyInfoInputs.cache
+D:\git\InterfacesInCsharp\InterfacesInCsharp\obj\Debug\net6.0\InterfacesInCsharp.AssemblyInfo.cs
+D:\git\InterfacesInCsharp\InterfacesInCsharp\obj\Debug\net6.0\InterfacesInCsharp.csproj.CoreCompileInputs.cache
+D:\git\InterfacesInCsharp\InterfacesInCsharp\obj\Debug\net6.0\InterfacesInCsharp.dll
+D:\git\InterfacesInCsharp\InterfacesInCsharp\obj\Debug\net6.0\refint\InterfacesInCsharp.dll
+D:\git\InterfacesInCsharp\InterfacesInCsharp\obj\Debug\net6.0\InterfacesInCsharp.pdb
+D:\git\InterfacesInCsharp\InterfacesInCsharp\obj\Debug\net6.0\InterfacesInCsharp.genruntimeconfig.cache
+D:\git\InterfacesInCsharp\InterfacesInCsharp\obj\Debug\net6.0\ref\InterfacesInCsharp.dll

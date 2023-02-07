@@ -1,0 +1,15 @@
+D:\git\DelegateIntro\DelegateIntro\bin\Debug\net6.0\DelegateIntro.exe
+D:\git\DelegateIntro\DelegateIntro\bin\Debug\net6.0\DelegateIntro.deps.json
+D:\git\DelegateIntro\DelegateIntro\bin\Debug\net6.0\DelegateIntro.runtimeconfig.json
+D:\git\DelegateIntro\DelegateIntro\bin\Debug\net6.0\DelegateIntro.dll
+D:\git\DelegateIntro\DelegateIntro\bin\Debug\net6.0\DelegateIntro.pdb
+D:\git\DelegateIntro\DelegateIntro\obj\Debug\net6.0\DelegateIntro.csproj.AssemblyReference.cache
+D:\git\DelegateIntro\DelegateIntro\obj\Debug\net6.0\DelegateIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\DelegateIntro\DelegateIntro\obj\Debug\net6.0\DelegateIntro.AssemblyInfoInputs.cache
+D:\git\DelegateIntro\DelegateIntro\obj\Debug\net6.0\DelegateIntro.AssemblyInfo.cs
+D:\git\DelegateIntro\DelegateIntro\obj\Debug\net6.0\DelegateIntro.csproj.CoreCompileInputs.cache
+D:\git\DelegateIntro\DelegateIntro\obj\Debug\net6.0\DelegateIntro.dll
+D:\git\DelegateIntro\DelegateIntro\obj\Debug\net6.0\refint\DelegateIntro.dll
+D:\git\DelegateIntro\DelegateIntro\obj\Debug\net6.0\DelegateIntro.pdb
+D:\git\DelegateIntro\DelegateIntro\obj\Debug\net6.0\DelegateIntro.genruntimeconfig.cache
+D:\git\DelegateIntro\DelegateIntro\obj\Debug\net6.0\ref\DelegateIntro.dll

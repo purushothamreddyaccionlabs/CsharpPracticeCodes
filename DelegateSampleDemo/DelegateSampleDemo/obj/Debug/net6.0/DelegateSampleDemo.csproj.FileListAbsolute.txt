@@ -1,0 +1,15 @@
+D:\git\DelegateSampleDemo\DelegateSampleDemo\bin\Debug\net6.0\DelegateSampleDemo.exe
+D:\git\DelegateSampleDemo\DelegateSampleDemo\bin\Debug\net6.0\DelegateSampleDemo.deps.json
+D:\git\DelegateSampleDemo\DelegateSampleDemo\bin\Debug\net6.0\DelegateSampleDemo.runtimeconfig.json
+D:\git\DelegateSampleDemo\DelegateSampleDemo\bin\Debug\net6.0\DelegateSampleDemo.dll
+D:\git\DelegateSampleDemo\DelegateSampleDemo\bin\Debug\net6.0\DelegateSampleDemo.pdb
+D:\git\DelegateSampleDemo\DelegateSampleDemo\obj\Debug\net6.0\DelegateSampleDemo.csproj.AssemblyReference.cache
+D:\git\DelegateSampleDemo\DelegateSampleDemo\obj\Debug\net6.0\DelegateSampleDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\DelegateSampleDemo\DelegateSampleDemo\obj\Debug\net6.0\DelegateSampleDemo.AssemblyInfoInputs.cache
+D:\git\DelegateSampleDemo\DelegateSampleDemo\obj\Debug\net6.0\DelegateSampleDemo.AssemblyInfo.cs
+D:\git\DelegateSampleDemo\DelegateSampleDemo\obj\Debug\net6.0\DelegateSampleDemo.csproj.CoreCompileInputs.cache
+D:\git\DelegateSampleDemo\DelegateSampleDemo\obj\Debug\net6.0\DelegateSampleDemo.dll
+D:\git\DelegateSampleDemo\DelegateSampleDemo\obj\Debug\net6.0\refint\DelegateSampleDemo.dll
+D:\git\DelegateSampleDemo\DelegateSampleDemo\obj\Debug\net6.0\DelegateSampleDemo.pdb
+D:\git\DelegateSampleDemo\DelegateSampleDemo\obj\Debug\net6.0\DelegateSampleDemo.genruntimeconfig.cache
+D:\git\DelegateSampleDemo\DelegateSampleDemo\obj\Debug\net6.0\ref\DelegateSampleDemo.dll

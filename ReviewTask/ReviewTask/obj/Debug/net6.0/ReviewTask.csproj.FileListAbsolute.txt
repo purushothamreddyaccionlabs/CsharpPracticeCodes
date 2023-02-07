@@ -1,0 +1,15 @@
+D:\git\ReviewTask\ReviewTask\obj\Debug\net6.0\ReviewTask.csproj.AssemblyReference.cache
+D:\git\ReviewTask\ReviewTask\obj\Debug\net6.0\ReviewTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ReviewTask\ReviewTask\obj\Debug\net6.0\ReviewTask.AssemblyInfoInputs.cache
+D:\git\ReviewTask\ReviewTask\obj\Debug\net6.0\ReviewTask.AssemblyInfo.cs
+D:\git\ReviewTask\ReviewTask\obj\Debug\net6.0\ReviewTask.csproj.CoreCompileInputs.cache
+D:\git\ReviewTask\ReviewTask\bin\Debug\net6.0\ReviewTask.exe
+D:\git\ReviewTask\ReviewTask\bin\Debug\net6.0\ReviewTask.deps.json
+D:\git\ReviewTask\ReviewTask\bin\Debug\net6.0\ReviewTask.runtimeconfig.json
+D:\git\ReviewTask\ReviewTask\bin\Debug\net6.0\ReviewTask.dll
+D:\git\ReviewTask\ReviewTask\bin\Debug\net6.0\ReviewTask.pdb
+D:\git\ReviewTask\ReviewTask\obj\Debug\net6.0\ReviewTask.dll
+D:\git\ReviewTask\ReviewTask\obj\Debug\net6.0\refint\ReviewTask.dll
+D:\git\ReviewTask\ReviewTask\obj\Debug\net6.0\ReviewTask.pdb
+D:\git\ReviewTask\ReviewTask\obj\Debug\net6.0\ReviewTask.genruntimeconfig.cache
+D:\git\ReviewTask\ReviewTask\obj\Debug\net6.0\ref\ReviewTask.dll

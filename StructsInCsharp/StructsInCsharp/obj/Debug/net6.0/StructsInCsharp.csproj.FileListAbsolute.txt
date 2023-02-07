@@ -1,0 +1,15 @@
+D:\git\StructsInCsharp\StructsInCsharp\bin\Debug\net6.0\StructsInCsharp.exe
+D:\git\StructsInCsharp\StructsInCsharp\bin\Debug\net6.0\StructsInCsharp.deps.json
+D:\git\StructsInCsharp\StructsInCsharp\bin\Debug\net6.0\StructsInCsharp.runtimeconfig.json
+D:\git\StructsInCsharp\StructsInCsharp\bin\Debug\net6.0\StructsInCsharp.dll
+D:\git\StructsInCsharp\StructsInCsharp\bin\Debug\net6.0\StructsInCsharp.pdb
+D:\git\StructsInCsharp\StructsInCsharp\obj\Debug\net6.0\StructsInCsharp.csproj.AssemblyReference.cache
+D:\git\StructsInCsharp\StructsInCsharp\obj\Debug\net6.0\StructsInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\StructsInCsharp\StructsInCsharp\obj\Debug\net6.0\StructsInCsharp.AssemblyInfoInputs.cache
+D:\git\StructsInCsharp\StructsInCsharp\obj\Debug\net6.0\StructsInCsharp.AssemblyInfo.cs
+D:\git\StructsInCsharp\StructsInCsharp\obj\Debug\net6.0\StructsInCsharp.csproj.CoreCompileInputs.cache
+D:\git\StructsInCsharp\StructsInCsharp\obj\Debug\net6.0\StructsInCsharp.dll
+D:\git\StructsInCsharp\StructsInCsharp\obj\Debug\net6.0\refint\StructsInCsharp.dll
+D:\git\StructsInCsharp\StructsInCsharp\obj\Debug\net6.0\StructsInCsharp.pdb
+D:\git\StructsInCsharp\StructsInCsharp\obj\Debug\net6.0\StructsInCsharp.genruntimeconfig.cache
+D:\git\StructsInCsharp\StructsInCsharp\obj\Debug\net6.0\ref\StructsInCsharp.dll
