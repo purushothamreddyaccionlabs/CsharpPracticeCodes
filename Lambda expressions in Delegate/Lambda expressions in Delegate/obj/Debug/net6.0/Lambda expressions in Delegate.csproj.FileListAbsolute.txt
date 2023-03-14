@@ -1,0 +1,15 @@
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\bin\Debug\net6.0\Lambda expressions in Delegate.exe
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\bin\Debug\net6.0\Lambda expressions in Delegate.deps.json
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\bin\Debug\net6.0\Lambda expressions in Delegate.runtimeconfig.json
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\bin\Debug\net6.0\Lambda expressions in Delegate.dll
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\bin\Debug\net6.0\Lambda expressions in Delegate.pdb
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\obj\Debug\net6.0\Lambda expressions in Delegate.csproj.AssemblyReference.cache
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\obj\Debug\net6.0\Lambda expressions in Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\obj\Debug\net6.0\Lambda expressions in Delegate.AssemblyInfoInputs.cache
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\obj\Debug\net6.0\Lambda expressions in Delegate.AssemblyInfo.cs
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\obj\Debug\net6.0\Lambda expressions in Delegate.csproj.CoreCompileInputs.cache
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\obj\Debug\net6.0\Lambda expressions in Delegate.dll
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\obj\Debug\net6.0\refint\Lambda expressions in Delegate.dll
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\obj\Debug\net6.0\Lambda expressions in Delegate.pdb
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\obj\Debug\net6.0\Lambda expressions in Delegate.genruntimeconfig.cache
+D:\git\Lambda expressions in Delegate\Lambda expressions in Delegate\obj\Debug\net6.0\ref\Lambda expressions in Delegate.dll

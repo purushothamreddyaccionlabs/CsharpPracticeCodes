@@ -1,0 +1,15 @@
+D:\git\delegateTypes\delegateTypes\bin\Debug\net6.0\delegateTypes.exe
+D:\git\delegateTypes\delegateTypes\bin\Debug\net6.0\delegateTypes.deps.json
+D:\git\delegateTypes\delegateTypes\bin\Debug\net6.0\delegateTypes.runtimeconfig.json
+D:\git\delegateTypes\delegateTypes\bin\Debug\net6.0\delegateTypes.dll
+D:\git\delegateTypes\delegateTypes\bin\Debug\net6.0\delegateTypes.pdb
+D:\git\delegateTypes\delegateTypes\obj\Debug\net6.0\delegateTypes.csproj.AssemblyReference.cache
+D:\git\delegateTypes\delegateTypes\obj\Debug\net6.0\delegateTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\delegateTypes\delegateTypes\obj\Debug\net6.0\delegateTypes.AssemblyInfoInputs.cache
+D:\git\delegateTypes\delegateTypes\obj\Debug\net6.0\delegateTypes.AssemblyInfo.cs
+D:\git\delegateTypes\delegateTypes\obj\Debug\net6.0\delegateTypes.csproj.CoreCompileInputs.cache
+D:\git\delegateTypes\delegateTypes\obj\Debug\net6.0\delegateTypes.dll
+D:\git\delegateTypes\delegateTypes\obj\Debug\net6.0\refint\delegateTypes.dll
+D:\git\delegateTypes\delegateTypes\obj\Debug\net6.0\delegateTypes.pdb
+D:\git\delegateTypes\delegateTypes\obj\Debug\net6.0\delegateTypes.genruntimeconfig.cache
+D:\git\delegateTypes\delegateTypes\obj\Debug\net6.0\ref\delegateTypes.dll

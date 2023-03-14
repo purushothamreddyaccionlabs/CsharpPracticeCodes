@@ -1,0 +1,15 @@
+D:\git\MulticasteDel\MulticasteDel\bin\Debug\net6.0\MulticasteDel.exe
+D:\git\MulticasteDel\MulticasteDel\bin\Debug\net6.0\MulticasteDel.deps.json
+D:\git\MulticasteDel\MulticasteDel\bin\Debug\net6.0\MulticasteDel.runtimeconfig.json
+D:\git\MulticasteDel\MulticasteDel\bin\Debug\net6.0\MulticasteDel.dll
+D:\git\MulticasteDel\MulticasteDel\bin\Debug\net6.0\MulticasteDel.pdb
+D:\git\MulticasteDel\MulticasteDel\obj\Debug\net6.0\MulticasteDel.csproj.AssemblyReference.cache
+D:\git\MulticasteDel\MulticasteDel\obj\Debug\net6.0\MulticasteDel.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\MulticasteDel\MulticasteDel\obj\Debug\net6.0\MulticasteDel.AssemblyInfoInputs.cache
+D:\git\MulticasteDel\MulticasteDel\obj\Debug\net6.0\MulticasteDel.AssemblyInfo.cs
+D:\git\MulticasteDel\MulticasteDel\obj\Debug\net6.0\MulticasteDel.csproj.CoreCompileInputs.cache
+D:\git\MulticasteDel\MulticasteDel\obj\Debug\net6.0\MulticasteDel.dll
+D:\git\MulticasteDel\MulticasteDel\obj\Debug\net6.0\refint\MulticasteDel.dll
+D:\git\MulticasteDel\MulticasteDel\obj\Debug\net6.0\MulticasteDel.pdb
+D:\git\MulticasteDel\MulticasteDel\obj\Debug\net6.0\MulticasteDel.genruntimeconfig.cache
+D:\git\MulticasteDel\MulticasteDel\obj\Debug\net6.0\ref\MulticasteDel.dll

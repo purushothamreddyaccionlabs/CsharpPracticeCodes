@@ -1,0 +1,15 @@
+D:\git\Delegate_NIT\Delegate_NIT\bin\Debug\net6.0\Delegate_NIT.exe
+D:\git\Delegate_NIT\Delegate_NIT\bin\Debug\net6.0\Delegate_NIT.deps.json
+D:\git\Delegate_NIT\Delegate_NIT\bin\Debug\net6.0\Delegate_NIT.runtimeconfig.json
+D:\git\Delegate_NIT\Delegate_NIT\bin\Debug\net6.0\Delegate_NIT.dll
+D:\git\Delegate_NIT\Delegate_NIT\bin\Debug\net6.0\Delegate_NIT.pdb
+D:\git\Delegate_NIT\Delegate_NIT\obj\Debug\net6.0\Delegate_NIT.csproj.AssemblyReference.cache
+D:\git\Delegate_NIT\Delegate_NIT\obj\Debug\net6.0\Delegate_NIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Delegate_NIT\Delegate_NIT\obj\Debug\net6.0\Delegate_NIT.AssemblyInfoInputs.cache
+D:\git\Delegate_NIT\Delegate_NIT\obj\Debug\net6.0\Delegate_NIT.AssemblyInfo.cs
+D:\git\Delegate_NIT\Delegate_NIT\obj\Debug\net6.0\Delegate_NIT.csproj.CoreCompileInputs.cache
+D:\git\Delegate_NIT\Delegate_NIT\obj\Debug\net6.0\Delegate_NIT.dll
+D:\git\Delegate_NIT\Delegate_NIT\obj\Debug\net6.0\refint\Delegate_NIT.dll
+D:\git\Delegate_NIT\Delegate_NIT\obj\Debug\net6.0\Delegate_NIT.pdb
+D:\git\Delegate_NIT\Delegate_NIT\obj\Debug\net6.0\Delegate_NIT.genruntimeconfig.cache
+D:\git\Delegate_NIT\Delegate_NIT\obj\Debug\net6.0\ref\Delegate_NIT.dll

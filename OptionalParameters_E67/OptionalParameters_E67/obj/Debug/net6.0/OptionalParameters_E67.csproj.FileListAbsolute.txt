@@ -1,0 +1,15 @@
+D:\git\OptionalParameters_E67\OptionalParameters_E67\bin\Debug\net6.0\OptionalParameters_E67.exe
+D:\git\OptionalParameters_E67\OptionalParameters_E67\bin\Debug\net6.0\OptionalParameters_E67.deps.json
+D:\git\OptionalParameters_E67\OptionalParameters_E67\bin\Debug\net6.0\OptionalParameters_E67.runtimeconfig.json
+D:\git\OptionalParameters_E67\OptionalParameters_E67\bin\Debug\net6.0\OptionalParameters_E67.dll
+D:\git\OptionalParameters_E67\OptionalParameters_E67\bin\Debug\net6.0\OptionalParameters_E67.pdb
+D:\git\OptionalParameters_E67\OptionalParameters_E67\obj\Debug\net6.0\OptionalParameters_E67.csproj.AssemblyReference.cache
+D:\git\OptionalParameters_E67\OptionalParameters_E67\obj\Debug\net6.0\OptionalParameters_E67.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\OptionalParameters_E67\OptionalParameters_E67\obj\Debug\net6.0\OptionalParameters_E67.AssemblyInfoInputs.cache
+D:\git\OptionalParameters_E67\OptionalParameters_E67\obj\Debug\net6.0\OptionalParameters_E67.AssemblyInfo.cs
+D:\git\OptionalParameters_E67\OptionalParameters_E67\obj\Debug\net6.0\OptionalParameters_E67.csproj.CoreCompileInputs.cache
+D:\git\OptionalParameters_E67\OptionalParameters_E67\obj\Debug\net6.0\OptionalParameters_E67.dll
+D:\git\OptionalParameters_E67\OptionalParameters_E67\obj\Debug\net6.0\refint\OptionalParameters_E67.dll
+D:\git\OptionalParameters_E67\OptionalParameters_E67\obj\Debug\net6.0\OptionalParameters_E67.pdb
+D:\git\OptionalParameters_E67\OptionalParameters_E67\obj\Debug\net6.0\OptionalParameters_E67.genruntimeconfig.cache
+D:\git\OptionalParameters_E67\OptionalParameters_E67\obj\Debug\net6.0\ref\OptionalParameters_E67.dll

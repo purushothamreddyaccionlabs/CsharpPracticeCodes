@@ -1,0 +1,15 @@
+D:\git\EnumsExample\EnumsExample\bin\Debug\net6.0\EnumsExample.exe
+D:\git\EnumsExample\EnumsExample\bin\Debug\net6.0\EnumsExample.deps.json
+D:\git\EnumsExample\EnumsExample\bin\Debug\net6.0\EnumsExample.runtimeconfig.json
+D:\git\EnumsExample\EnumsExample\bin\Debug\net6.0\EnumsExample.dll
+D:\git\EnumsExample\EnumsExample\bin\Debug\net6.0\EnumsExample.pdb
+D:\git\EnumsExample\EnumsExample\obj\Debug\net6.0\EnumsExample.csproj.AssemblyReference.cache
+D:\git\EnumsExample\EnumsExample\obj\Debug\net6.0\EnumsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\EnumsExample\EnumsExample\obj\Debug\net6.0\EnumsExample.AssemblyInfoInputs.cache
+D:\git\EnumsExample\EnumsExample\obj\Debug\net6.0\EnumsExample.AssemblyInfo.cs
+D:\git\EnumsExample\EnumsExample\obj\Debug\net6.0\EnumsExample.csproj.CoreCompileInputs.cache
+D:\git\EnumsExample\EnumsExample\obj\Debug\net6.0\EnumsExample.dll
+D:\git\EnumsExample\EnumsExample\obj\Debug\net6.0\refint\EnumsExample.dll
+D:\git\EnumsExample\EnumsExample\obj\Debug\net6.0\EnumsExample.pdb
+D:\git\EnumsExample\EnumsExample\obj\Debug\net6.0\EnumsExample.genruntimeconfig.cache
+D:\git\EnumsExample\EnumsExample\obj\Debug\net6.0\ref\EnumsExample.dll

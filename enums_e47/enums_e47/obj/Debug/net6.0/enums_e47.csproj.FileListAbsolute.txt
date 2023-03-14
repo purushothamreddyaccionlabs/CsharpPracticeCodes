@@ -1,0 +1,15 @@
+D:\git\enums_e47\enums_e47\bin\Debug\net6.0\enums_e47.exe
+D:\git\enums_e47\enums_e47\bin\Debug\net6.0\enums_e47.deps.json
+D:\git\enums_e47\enums_e47\bin\Debug\net6.0\enums_e47.runtimeconfig.json
+D:\git\enums_e47\enums_e47\bin\Debug\net6.0\enums_e47.dll
+D:\git\enums_e47\enums_e47\bin\Debug\net6.0\enums_e47.pdb
+D:\git\enums_e47\enums_e47\obj\Debug\net6.0\enums_e47.csproj.AssemblyReference.cache
+D:\git\enums_e47\enums_e47\obj\Debug\net6.0\enums_e47.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\enums_e47\enums_e47\obj\Debug\net6.0\enums_e47.AssemblyInfoInputs.cache
+D:\git\enums_e47\enums_e47\obj\Debug\net6.0\enums_e47.AssemblyInfo.cs
+D:\git\enums_e47\enums_e47\obj\Debug\net6.0\enums_e47.csproj.CoreCompileInputs.cache
+D:\git\enums_e47\enums_e47\obj\Debug\net6.0\enums_e47.dll
+D:\git\enums_e47\enums_e47\obj\Debug\net6.0\refint\enums_e47.dll
+D:\git\enums_e47\enums_e47\obj\Debug\net6.0\enums_e47.pdb
+D:\git\enums_e47\enums_e47\obj\Debug\net6.0\enums_e47.genruntimeconfig.cache
+D:\git\enums_e47\enums_e47\obj\Debug\net6.0\ref\enums_e47.dll

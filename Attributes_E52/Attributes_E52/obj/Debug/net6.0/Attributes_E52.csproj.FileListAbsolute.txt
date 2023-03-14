@@ -1,0 +1,15 @@
+D:\git\Attributes_E52\Attributes_E52\bin\Debug\net6.0\Attributes_E52.exe
+D:\git\Attributes_E52\Attributes_E52\bin\Debug\net6.0\Attributes_E52.deps.json
+D:\git\Attributes_E52\Attributes_E52\bin\Debug\net6.0\Attributes_E52.runtimeconfig.json
+D:\git\Attributes_E52\Attributes_E52\bin\Debug\net6.0\Attributes_E52.dll
+D:\git\Attributes_E52\Attributes_E52\bin\Debug\net6.0\Attributes_E52.pdb
+D:\git\Attributes_E52\Attributes_E52\obj\Debug\net6.0\Attributes_E52.csproj.AssemblyReference.cache
+D:\git\Attributes_E52\Attributes_E52\obj\Debug\net6.0\Attributes_E52.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Attributes_E52\Attributes_E52\obj\Debug\net6.0\Attributes_E52.AssemblyInfoInputs.cache
+D:\git\Attributes_E52\Attributes_E52\obj\Debug\net6.0\Attributes_E52.AssemblyInfo.cs
+D:\git\Attributes_E52\Attributes_E52\obj\Debug\net6.0\Attributes_E52.csproj.CoreCompileInputs.cache
+D:\git\Attributes_E52\Attributes_E52\obj\Debug\net6.0\Attributes_E52.dll
+D:\git\Attributes_E52\Attributes_E52\obj\Debug\net6.0\refint\Attributes_E52.dll
+D:\git\Attributes_E52\Attributes_E52\obj\Debug\net6.0\Attributes_E52.pdb
+D:\git\Attributes_E52\Attributes_E52\obj\Debug\net6.0\Attributes_E52.genruntimeconfig.cache
+D:\git\Attributes_E52\Attributes_E52\obj\Debug\net6.0\ref\Attributes_E52.dll

@@ -1,0 +1,15 @@
+D:\git\Generics_e56\Generics_e56\bin\Debug\net6.0\Generics_e56.exe
+D:\git\Generics_e56\Generics_e56\bin\Debug\net6.0\Generics_e56.deps.json
+D:\git\Generics_e56\Generics_e56\bin\Debug\net6.0\Generics_e56.runtimeconfig.json
+D:\git\Generics_e56\Generics_e56\bin\Debug\net6.0\Generics_e56.dll
+D:\git\Generics_e56\Generics_e56\bin\Debug\net6.0\Generics_e56.pdb
+D:\git\Generics_e56\Generics_e56\obj\Debug\net6.0\Generics_e56.csproj.AssemblyReference.cache
+D:\git\Generics_e56\Generics_e56\obj\Debug\net6.0\Generics_e56.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Generics_e56\Generics_e56\obj\Debug\net6.0\Generics_e56.AssemblyInfoInputs.cache
+D:\git\Generics_e56\Generics_e56\obj\Debug\net6.0\Generics_e56.AssemblyInfo.cs
+D:\git\Generics_e56\Generics_e56\obj\Debug\net6.0\Generics_e56.csproj.CoreCompileInputs.cache
+D:\git\Generics_e56\Generics_e56\obj\Debug\net6.0\Generics_e56.dll
+D:\git\Generics_e56\Generics_e56\obj\Debug\net6.0\refint\Generics_e56.dll
+D:\git\Generics_e56\Generics_e56\obj\Debug\net6.0\Generics_e56.pdb
+D:\git\Generics_e56\Generics_e56\obj\Debug\net6.0\Generics_e56.genruntimeconfig.cache
+D:\git\Generics_e56\Generics_e56\obj\Debug\net6.0\ref\Generics_e56.dll

@@ -1,0 +1,15 @@
+D:\git\StringBuilder_E60\StringBuilder_E60\bin\Debug\net6.0\StringBuilder_E60.exe
+D:\git\StringBuilder_E60\StringBuilder_E60\bin\Debug\net6.0\StringBuilder_E60.deps.json
+D:\git\StringBuilder_E60\StringBuilder_E60\bin\Debug\net6.0\StringBuilder_E60.runtimeconfig.json
+D:\git\StringBuilder_E60\StringBuilder_E60\bin\Debug\net6.0\StringBuilder_E60.dll
+D:\git\StringBuilder_E60\StringBuilder_E60\bin\Debug\net6.0\StringBuilder_E60.pdb
+D:\git\StringBuilder_E60\StringBuilder_E60\obj\Debug\net6.0\StringBuilder_E60.csproj.AssemblyReference.cache
+D:\git\StringBuilder_E60\StringBuilder_E60\obj\Debug\net6.0\StringBuilder_E60.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\StringBuilder_E60\StringBuilder_E60\obj\Debug\net6.0\StringBuilder_E60.AssemblyInfoInputs.cache
+D:\git\StringBuilder_E60\StringBuilder_E60\obj\Debug\net6.0\StringBuilder_E60.AssemblyInfo.cs
+D:\git\StringBuilder_E60\StringBuilder_E60\obj\Debug\net6.0\StringBuilder_E60.csproj.CoreCompileInputs.cache
+D:\git\StringBuilder_E60\StringBuilder_E60\obj\Debug\net6.0\StringBuilder_E60.dll
+D:\git\StringBuilder_E60\StringBuilder_E60\obj\Debug\net6.0\refint\StringBuilder_E60.dll
+D:\git\StringBuilder_E60\StringBuilder_E60\obj\Debug\net6.0\StringBuilder_E60.pdb
+D:\git\StringBuilder_E60\StringBuilder_E60\obj\Debug\net6.0\StringBuilder_E60.genruntimeconfig.cache
+D:\git\StringBuilder_E60\StringBuilder_E60\obj\Debug\net6.0\ref\StringBuilder_E60.dll
