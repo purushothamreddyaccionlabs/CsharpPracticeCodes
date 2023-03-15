@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\Generics_e56\\Generics_e56\\Generics_e56.csproj": {}
+    "D:\\Csharp Practice Programs\\Generics_e56\\Generics_e56\\Generics_e56.csproj": {}
   },
   "projects": {
-    "D:\\git\\Generics_e56\\Generics_e56\\Generics_e56.csproj": {
+    "D:\\Csharp Practice Programs\\Generics_e56\\Generics_e56\\Generics_e56.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\Generics_e56\\Generics_e56\\Generics_e56.csproj",
+        "projectUniqueName": "D:\\Csharp Practice Programs\\Generics_e56\\Generics_e56\\Generics_e56.csproj",
         "projectName": "Generics_e56",
-        "projectPath": "D:\\git\\Generics_e56\\Generics_e56\\Generics_e56.csproj",
+        "projectPath": "D:\\Csharp Practice Programs\\Generics_e56\\Generics_e56\\Generics_e56.csproj",
         "packagesPath": "C:\\Users\\AL5402\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\Generics_e56\\Generics_e56\\obj\\",
+        "outputPath": "D:\\Csharp Practice Programs\\Generics_e56\\Generics_e56\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AL5402\\AppData\\Roaming\\NuGet\\NuGet.Config",

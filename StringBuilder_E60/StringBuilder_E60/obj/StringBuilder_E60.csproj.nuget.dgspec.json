@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\StringBuilder_E60\\StringBuilder_E60\\StringBuilder_E60.csproj": {}
+    "D:\\Csharp Practice Programs\\StringBuilder_E60\\StringBuilder_E60\\StringBuilder_E60.csproj": {}
   },
   "projects": {
-    "D:\\git\\StringBuilder_E60\\StringBuilder_E60\\StringBuilder_E60.csproj": {
+    "D:\\Csharp Practice Programs\\StringBuilder_E60\\StringBuilder_E60\\StringBuilder_E60.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\StringBuilder_E60\\StringBuilder_E60\\StringBuilder_E60.csproj",
+        "projectUniqueName": "D:\\Csharp Practice Programs\\StringBuilder_E60\\StringBuilder_E60\\StringBuilder_E60.csproj",
         "projectName": "StringBuilder_E60",
-        "projectPath": "D:\\git\\StringBuilder_E60\\StringBuilder_E60\\StringBuilder_E60.csproj",
+        "projectPath": "D:\\Csharp Practice Programs\\StringBuilder_E60\\StringBuilder_E60\\StringBuilder_E60.csproj",
         "packagesPath": "C:\\Users\\AL5402\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\StringBuilder_E60\\StringBuilder_E60\\obj\\",
+        "outputPath": "D:\\Csharp Practice Programs\\StringBuilder_E60\\StringBuilder_E60\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AL5402\\AppData\\Roaming\\NuGet\\NuGet.Config",

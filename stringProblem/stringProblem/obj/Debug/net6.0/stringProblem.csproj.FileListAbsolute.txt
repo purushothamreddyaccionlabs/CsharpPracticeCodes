@@ -1,0 +1,15 @@
+D:\git\stringProblem\stringProblem\bin\Debug\net6.0\stringProblem.exe
+D:\git\stringProblem\stringProblem\bin\Debug\net6.0\stringProblem.deps.json
+D:\git\stringProblem\stringProblem\bin\Debug\net6.0\stringProblem.runtimeconfig.json
+D:\git\stringProblem\stringProblem\bin\Debug\net6.0\stringProblem.dll
+D:\git\stringProblem\stringProblem\bin\Debug\net6.0\stringProblem.pdb
+D:\git\stringProblem\stringProblem\obj\Debug\net6.0\stringProblem.csproj.AssemblyReference.cache
+D:\git\stringProblem\stringProblem\obj\Debug\net6.0\stringProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\stringProblem\stringProblem\obj\Debug\net6.0\stringProblem.AssemblyInfoInputs.cache
+D:\git\stringProblem\stringProblem\obj\Debug\net6.0\stringProblem.AssemblyInfo.cs
+D:\git\stringProblem\stringProblem\obj\Debug\net6.0\stringProblem.csproj.CoreCompileInputs.cache
+D:\git\stringProblem\stringProblem\obj\Debug\net6.0\stringProblem.dll
+D:\git\stringProblem\stringProblem\obj\Debug\net6.0\refint\stringProblem.dll
+D:\git\stringProblem\stringProblem\obj\Debug\net6.0\stringProblem.pdb
+D:\git\stringProblem\stringProblem\obj\Debug\net6.0\stringProblem.genruntimeconfig.cache
+D:\git\stringProblem\stringProblem\obj\Debug\net6.0\ref\stringProblem.dll

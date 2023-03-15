@@ -1,0 +1,15 @@
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\bin\Debug\net6.0\List Collection class E_74.exe
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\bin\Debug\net6.0\List Collection class E_74.deps.json
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\bin\Debug\net6.0\List Collection class E_74.runtimeconfig.json
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\bin\Debug\net6.0\List Collection class E_74.dll
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\bin\Debug\net6.0\List Collection class E_74.pdb
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\obj\Debug\net6.0\List Collection class E_74.csproj.AssemblyReference.cache
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\obj\Debug\net6.0\List Collection class E_74.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\obj\Debug\net6.0\List Collection class E_74.AssemblyInfoInputs.cache
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\obj\Debug\net6.0\List Collection class E_74.AssemblyInfo.cs
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\obj\Debug\net6.0\List Collection class E_74.csproj.CoreCompileInputs.cache
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\obj\Debug\net6.0\List Collection class E_74.dll
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\obj\Debug\net6.0\refint\List Collection class E_74.dll
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\obj\Debug\net6.0\List Collection class E_74.pdb
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\obj\Debug\net6.0\List Collection class E_74.genruntimeconfig.cache
+D:\Csharp Practice Programs\List Collection class E_74\List Collection class E_74\obj\Debug\net6.0\ref\List Collection class E_74.dll

@@ -1,0 +1,15 @@
+D:\git\Dictionary_E72\Dictionary_E72\bin\Debug\net6.0\Dictionary_E72.exe
+D:\git\Dictionary_E72\Dictionary_E72\bin\Debug\net6.0\Dictionary_E72.deps.json
+D:\git\Dictionary_E72\Dictionary_E72\bin\Debug\net6.0\Dictionary_E72.runtimeconfig.json
+D:\git\Dictionary_E72\Dictionary_E72\bin\Debug\net6.0\Dictionary_E72.dll
+D:\git\Dictionary_E72\Dictionary_E72\bin\Debug\net6.0\Dictionary_E72.pdb
+D:\git\Dictionary_E72\Dictionary_E72\obj\Debug\net6.0\Dictionary_E72.csproj.AssemblyReference.cache
+D:\git\Dictionary_E72\Dictionary_E72\obj\Debug\net6.0\Dictionary_E72.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Dictionary_E72\Dictionary_E72\obj\Debug\net6.0\Dictionary_E72.AssemblyInfoInputs.cache
+D:\git\Dictionary_E72\Dictionary_E72\obj\Debug\net6.0\Dictionary_E72.AssemblyInfo.cs
+D:\git\Dictionary_E72\Dictionary_E72\obj\Debug\net6.0\Dictionary_E72.csproj.CoreCompileInputs.cache
+D:\git\Dictionary_E72\Dictionary_E72\obj\Debug\net6.0\Dictionary_E72.dll
+D:\git\Dictionary_E72\Dictionary_E72\obj\Debug\net6.0\refint\Dictionary_E72.dll
+D:\git\Dictionary_E72\Dictionary_E72\obj\Debug\net6.0\Dictionary_E72.pdb
+D:\git\Dictionary_E72\Dictionary_E72\obj\Debug\net6.0\Dictionary_E72.genruntimeconfig.cache
+D:\git\Dictionary_E72\Dictionary_E72\obj\Debug\net6.0\ref\Dictionary_E72.dll
