@@ -1,0 +1,15 @@
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\bin\Debug\net6.0\GenericList Class and Range E76.exe
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\bin\Debug\net6.0\GenericList Class and Range E76.deps.json
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\bin\Debug\net6.0\GenericList Class and Range E76.runtimeconfig.json
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\bin\Debug\net6.0\GenericList Class and Range E76.dll
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\bin\Debug\net6.0\GenericList Class and Range E76.pdb
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\obj\Debug\net6.0\GenericList Class and Range E76.csproj.AssemblyReference.cache
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\obj\Debug\net6.0\GenericList Class and Range E76.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\obj\Debug\net6.0\GenericList Class and Range E76.AssemblyInfoInputs.cache
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\obj\Debug\net6.0\GenericList Class and Range E76.AssemblyInfo.cs
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\obj\Debug\net6.0\GenericList Class and Range E76.csproj.CoreCompileInputs.cache
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\obj\Debug\net6.0\GenericList Class and Range E76.dll
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\obj\Debug\net6.0\refint\GenericList Class and Range E76.dll
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\obj\Debug\net6.0\GenericList Class and Range E76.pdb
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\obj\Debug\net6.0\GenericList Class and Range E76.genruntimeconfig.cache
+D:\Csharp Practice Programs\GenericList Class and Range E76\GenericList Class and Range E76\obj\Debug\net6.0\ref\GenericList Class and Range E76.dll

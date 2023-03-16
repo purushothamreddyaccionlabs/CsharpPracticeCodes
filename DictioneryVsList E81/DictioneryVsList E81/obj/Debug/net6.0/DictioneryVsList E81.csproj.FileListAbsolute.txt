@@ -1,0 +1,15 @@
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\bin\Debug\net6.0\DictioneryVsList E81.exe
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\bin\Debug\net6.0\DictioneryVsList E81.deps.json
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\bin\Debug\net6.0\DictioneryVsList E81.runtimeconfig.json
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\bin\Debug\net6.0\DictioneryVsList E81.dll
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\bin\Debug\net6.0\DictioneryVsList E81.pdb
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\obj\Debug\net6.0\DictioneryVsList E81.csproj.AssemblyReference.cache
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\obj\Debug\net6.0\DictioneryVsList E81.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\obj\Debug\net6.0\DictioneryVsList E81.AssemblyInfoInputs.cache
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\obj\Debug\net6.0\DictioneryVsList E81.AssemblyInfo.cs
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\obj\Debug\net6.0\DictioneryVsList E81.csproj.CoreCompileInputs.cache
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\obj\Debug\net6.0\DictioneryVsList E81.dll
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\obj\Debug\net6.0\refint\DictioneryVsList E81.dll
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\obj\Debug\net6.0\DictioneryVsList E81.pdb
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\obj\Debug\net6.0\DictioneryVsList E81.genruntimeconfig.cache
+D:\Csharp Practice Programs\DictioneryVsList E81\DictioneryVsList E81\obj\Debug\net6.0\ref\DictioneryVsList E81.dll
