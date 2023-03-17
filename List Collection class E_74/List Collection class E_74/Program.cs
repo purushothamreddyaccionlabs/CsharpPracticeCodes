@@ -69,17 +69,17 @@ class Program
 
 
         //Convert an array to a list
-        /* Customer[] customerArray = new Customer[3];
-         customerArray[0] = customer1;
-         customerArray[1] = customer2;
-         customerArray[2] = customer3;
+        Customer[] customerArray = new Customer[3];
+        customerArray[0] = customer1;
+        customerArray[1] = customer2;
+        customerArray[2] = customer3;
 
-         List<Customer> listCustomer = customerArray.ToList();
+        List<Customer> listCustomer = customerArray.ToList();
 
-         foreach(Customer item in listCustomer)
-         {
-             Console.WriteLine("Id = {0} Name = {1} Salary = {2}", item.Id, item.Name, item.Salary);
-         }*/
+        foreach (Customer item in listCustomer)
+        {
+            Console.WriteLine("Id = {0} Name = {1} Salary = {2}", item.Id, item.Name, item.Salary);
+        }
 
         Customer[] arrayList = list.ToArray();
         Console.WriteLine(arrayList);

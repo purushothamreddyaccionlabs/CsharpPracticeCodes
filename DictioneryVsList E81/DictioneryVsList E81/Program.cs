@@ -11,12 +11,12 @@ class Program {
 
 
 
-        /* List<Country> list = new List<Country>();
-         list.Add(country1);
-         list.Add(country2);
-         list.Add(country3);
-         list.Add(country4);
-         list.Add(country5);*/
+        List<Country> list = new List<Country>();
+        list.Add(country1);
+        list.Add(country2);
+        list.Add(country3);
+        list.Add(country4);
+        list.Add(country5);
 
         Dictionary<string, Country> dictionaryCountries = new Dictionary<string, Country>();
         dictionaryCountries.Add(country1.Code, country1);
