@@ -1,0 +1,15 @@
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\bin\Debug\net6.0\Find pivot index Leetcode.exe
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\bin\Debug\net6.0\Find pivot index Leetcode.deps.json
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\bin\Debug\net6.0\Find pivot index Leetcode.runtimeconfig.json
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\bin\Debug\net6.0\Find pivot index Leetcode.dll
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\bin\Debug\net6.0\Find pivot index Leetcode.pdb
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\obj\Debug\net6.0\Find pivot index Leetcode.csproj.AssemblyReference.cache
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\obj\Debug\net6.0\Find pivot index Leetcode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\obj\Debug\net6.0\Find pivot index Leetcode.AssemblyInfoInputs.cache
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\obj\Debug\net6.0\Find pivot index Leetcode.AssemblyInfo.cs
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\obj\Debug\net6.0\Find pivot index Leetcode.csproj.CoreCompileInputs.cache
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\obj\Debug\net6.0\Find pivot index Leetcode.dll
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\obj\Debug\net6.0\refint\Find pivot index Leetcode.dll
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\obj\Debug\net6.0\Find pivot index Leetcode.pdb
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\obj\Debug\net6.0\Find pivot index Leetcode.genruntimeconfig.cache
+D:\Csharp Practice Programs\Find pivot index Leetcode\Find pivot index Leetcode\obj\Debug\net6.0\ref\Find pivot index Leetcode.dll

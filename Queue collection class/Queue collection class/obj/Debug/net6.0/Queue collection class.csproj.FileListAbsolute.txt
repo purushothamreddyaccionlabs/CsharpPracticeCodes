@@ -1,0 +1,15 @@
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\bin\Debug\net6.0\Queue collection class.exe
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\bin\Debug\net6.0\Queue collection class.deps.json
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\bin\Debug\net6.0\Queue collection class.runtimeconfig.json
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\bin\Debug\net6.0\Queue collection class.dll
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\bin\Debug\net6.0\Queue collection class.pdb
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\obj\Debug\net6.0\Queue collection class.csproj.AssemblyReference.cache
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\obj\Debug\net6.0\Queue collection class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\obj\Debug\net6.0\Queue collection class.AssemblyInfoInputs.cache
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\obj\Debug\net6.0\Queue collection class.AssemblyInfo.cs
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\obj\Debug\net6.0\Queue collection class.csproj.CoreCompileInputs.cache
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\obj\Debug\net6.0\Queue collection class.dll
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\obj\Debug\net6.0\refint\Queue collection class.dll
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\obj\Debug\net6.0\Queue collection class.pdb
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\obj\Debug\net6.0\Queue collection class.genruntimeconfig.cache
+D:\Csharp Practice Programs\Queue collection class\Queue collection class\obj\Debug\net6.0\ref\Queue collection class.dll

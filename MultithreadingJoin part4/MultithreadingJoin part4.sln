@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingJoin part4", "MultithreadingJoin part4\MultithreadingJoin part4.csproj", "{51C6BAD8-7DFD-4F40-B2E9-260C10BBCCDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C6BAD8-7DFD-4F40-B2E9-260C10BBCCDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C6BAD8-7DFD-4F40-B2E9-260C10BBCCDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C6BAD8-7DFD-4F40-B2E9-260C10BBCCDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C6BAD8-7DFD-4F40-B2E9-260C10BBCCDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A48A0886-8E2F-4181-BF7C-1AAE2F8454E1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\bin\Debug\net6.0\leetcode Practice.exe
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\bin\Debug\net6.0\leetcode Practice.deps.json
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\bin\Debug\net6.0\leetcode Practice.runtimeconfig.json
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\bin\Debug\net6.0\leetcode Practice.dll
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\bin\Debug\net6.0\leetcode Practice.pdb
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\obj\Debug\net6.0\leetcode Practice.csproj.AssemblyReference.cache
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\obj\Debug\net6.0\leetcode Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\obj\Debug\net6.0\leetcode Practice.AssemblyInfoInputs.cache
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\obj\Debug\net6.0\leetcode Practice.AssemblyInfo.cs
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\obj\Debug\net6.0\leetcode Practice.csproj.CoreCompileInputs.cache
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\obj\Debug\net6.0\leetcode Practice.dll
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\obj\Debug\net6.0\refint\leetcode Practice.dll
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\obj\Debug\net6.0\leetcode Practice.pdb
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\obj\Debug\net6.0\leetcode Practice.genruntimeconfig.cache
+D:\Csharp Practice Programs\leetcode Practice\leetcode Practice\obj\Debug\net6.0\ref\leetcode Practice.dll
