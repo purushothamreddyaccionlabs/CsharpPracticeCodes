@@ -1,0 +1,15 @@
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\bin\Debug\net6.0\Isomorphic Strings.exe
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\bin\Debug\net6.0\Isomorphic Strings.deps.json
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\bin\Debug\net6.0\Isomorphic Strings.runtimeconfig.json
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\bin\Debug\net6.0\Isomorphic Strings.dll
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\bin\Debug\net6.0\Isomorphic Strings.pdb
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.csproj.AssemblyReference.cache
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.AssemblyInfoInputs.cache
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.AssemblyInfo.cs
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.csproj.CoreCompileInputs.cache
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.dll
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\obj\Debug\net6.0\refint\Isomorphic Strings.dll
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.pdb
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\obj\Debug\net6.0\Isomorphic Strings.genruntimeconfig.cache
+D:\Csharp Practice Programs\Isomorphic Strings\Isomorphic Strings\obj\Debug\net6.0\ref\Isomorphic Strings.dll
